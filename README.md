@@ -23,7 +23,8 @@ Try our ML model: [Google Colab](https://colab.research.google.com/drive/1rnpUww
   - Leaflet.js
 
 - **Backend**
-
+  - Node.js
+  - Hapi.js
   - Firebase Authentication
 
 - **Machine Learning**
